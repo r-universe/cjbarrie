@@ -2,5 +2,9 @@
   {
     "package": "academictwitteR",
     "oncran": true
+  },
+  {
+    "package": "quiltr",
+    "oncran": true
   }
 ]

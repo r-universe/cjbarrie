@@ -8,3 +8,8 @@
 	url = https://github.com/cjbarrie/academictwitter
 	shallow = true
 	registered = true
+[submodule "quiltr"]
+	path = quiltr
+	url = https://github.com/cjbarrie/quiltr
+	shallow = true
+	registered = true
