@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "academictwitteR"]
 	path = academictwitteR
 	url = https://github.com/cjbarrie/academictwitter
-	shallow = true
-	registered = true
 [submodule "quiltr"]
 	path = quiltr
 	url = https://github.com/cjbarrie/quiltr
-	shallow = true
-	registered = true
